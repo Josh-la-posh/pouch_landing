@@ -111,7 +111,7 @@ function App() {
                 </p>
               </div>
               <div className="space-y-6">
-                <button className="inline-flex items-center gap-2 rounded-full border border-(--color-primary) dark:text-white px-9 py-3 text-sm md:text-[18px] font-normal text-(--color-primary)">
+                <button className="inline-flex items-center gap-2 rounded-full border border-(--color-primary) dark:border-white px-9 py-3 text-sm md:text-[18px] font-normal text-(--color-primary) dark:text-white">
                   <img src={coinWalletIcon} alt="" aria-hidden="true" className="h-5 w-5" />
                   Add Funds
                 </button>
